@@ -9,7 +9,7 @@ function error404() {
         <p>Oops, sorry, we can't find this page!</p>
         <a href="/">Click Here to go Home</a>
         <div>
-          <img src="/images/sad_cat.jpg" alt="Sad Cat" />
+          <img src="https://pbs.twimg.com/media/EZt-MQxU4AAEbcq?format=jpg&name=large" alt="Sad Cat" />
         </div>
       </main>
     </Def>
